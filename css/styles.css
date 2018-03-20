@@ -24,29 +24,29 @@ img {
 #initially-showing3 {
   display: none;
 }
-#clickable {
+.clickable {
   cursor: pointer;
   color: #0088cc;
 }
 
-#clickable:hover {
+.clickable:hover {
   text-decoration: underline;
 }
 
-#clickable2 {
+.clickable2 {
   cursor: pointer;
   color: #0088cc;
 }
 
-#clickable2:hover {
+.clickable2:hover {
   text-decoration: underline;
 }
 
-#clickable3 {
+.clickable3 {
   cursor: pointer;
   color: #0088cc;
 }
 
-#clickable3:hover {
+.clickable3:hover {
   text-decoration: underline;
 }
